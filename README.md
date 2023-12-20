@@ -20,7 +20,8 @@ B=np.array([5,-3])
 result=np.linalg.solve(A,B)
 print(result)
 ## Output:
-![Screenshot 2023-10-20 133200](https://github.com/Logesh051/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/144979188/1b5a8f72-000a-4cef-9c21-da39af2b9f6d)
+![Screenshot 2023-12-20 135158](https://github.com/Logesh051/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/144979188/323aebb3-15c6-4bf2-b8f3-d974f741a32a)
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
